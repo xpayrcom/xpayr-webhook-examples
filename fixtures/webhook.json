@@ -1,0 +1,5 @@
+{
+  "secret": "whsec_test_fixture",
+  "raw_body": "{\"id\":\"evt_test_001\",\"type\":\"payment.completed\",\"data\":{\"payment_id\":\"ps_test_001\",\"status\":\"completed\"}}",
+  "signature": "6c60f86997f03c5716fd6a2335056676de2391efa2c285d176f7e59ede220503"
+}

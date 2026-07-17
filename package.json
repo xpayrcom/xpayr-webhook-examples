@@ -1,0 +1,11 @@
+{
+  "name": "xpayr-webhook-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/node.test.mjs",
+    "start:node": "node node/server.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
