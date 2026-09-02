@@ -3,6 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "license": "MIT",
+  "homepage": "https://xpayr.com/developers/webhook-signature-guide",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpayrcom/xpayr-webhook-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xpayrcom/xpayr-webhook-examples/issues"
+  },
   "scripts": {
     "test": "node --test tests/node.test.mjs",
     "start:node": "node node/server.mjs"
